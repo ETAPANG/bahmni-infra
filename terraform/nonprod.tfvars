@@ -10,4 +10,4 @@ mysql_version              = "5.7"
 mysql_rds_port             = "3306"
 enable_bastion_host        = false
 bastion_public_access_cidr = "0.0.0.0/0"
-enable_ses                 = true
+enable_ses                 = false
